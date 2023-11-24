@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/cv_course/Yolo_dataset/train
+val: /content/drive/MyDrive/cv_course/Yolo_dataset/val
+test: /content/drive/MyDrive/cv_course/Yolo_dataset/test
+
+nc: 1
+names: [shoe]
